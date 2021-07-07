@@ -1,0 +1,40 @@
+.box{
+    width: 400px;
+    height: 500px;
+    border:8px solid rgb(15, 1, 1);
+    box-sizing: border-box;
+    margin: 70px;
+    padding: 20px;
+    border-radius: 26px;
+    box-shadow: 20px rgb(29, 3, 3);
+    background-color: rgba(35, 193, 221, 0.329);
+    
+    
+}
+body{
+    background-image: url(zairza4.jpg);
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    
+}
+h2{
+    display: block;
+    margin-top: auto;
+    margin-left: 30%;
+}
+.heading{
+    display: inline ;
+    margin-left: 37%;
+    font-size: xx-large;
+    border: solid 5px rgb(5, 81, 126);
+    border-radius: 10px;  
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: center;
+    margin-top: 70px;
+}
